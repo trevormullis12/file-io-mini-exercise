@@ -2,12 +2,12 @@
 
 ## Instructions
 
-1. Fork, clone and open this project with your preferred IDE for Java.
-1. Study the entire project structure, especially all defined methods.
-1. Create a branch called ```my-solution``` and checkout to it.
-1. Complete TODOs in main method of ```FileIoMiniExercise``` file.
-1. Add, commit and push your work in the ```my-solution``` branch.
-1. (Optionally) check out the existing solution branch for another possible solution.
+1. fork, clone and open this project with your preferred IDE for Java
+1. study the entire project structure, especially all defined methods
+1. create a branch called ```my-solution``` and checkout to it
+1. complete all TODOs in the main method of the ```FileIoMiniExercise``` file
+1. add, commit and push your work in the ```my-solution``` branch
+1. (optionally) check out the existing solution branch for another possible solution
 
 
 ***Note:*** 

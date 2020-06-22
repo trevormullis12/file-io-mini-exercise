@@ -32,7 +32,7 @@ public class FileIoMiniExercise {
 
         // TODO: overwrite the instructors-names.txt file with the latest list of names
 
-        // TODO: uncommment the following line
+        // TODO: uncomment the following line
 //        System.out.println("============== after name change...");
 
         // TODO: greet instructors again (no need to reread the text file again; just use the existing list of instructors in memory)
